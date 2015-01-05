@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1A1C9880-34F1-4AA8-9EAD-0B113E45AACB</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-01-04T21:26:02-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:11808768-84E2-4119-A714-108A9E90A90C</id>
+  <title>home </title>
+  <title xmlns="urn:iweb:">home </title>
+  <in-navbar xmlns="urn:iweb:">11808768-84E2-4119-A714-108A9E90A90C</in-navbar>
+  <link rel="alternate" href="home.html"/>
+  <updated>2015-01-04T21:26:02.001-06:00</updated>
+  <content>home </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D5D0A695-4517-4372-9FEC-DF7F939176A8</id>
+  <title>paintings &amp; drawings</title>
+  <title xmlns="urn:iweb:">paintings &amp; drawings</title>
+  <in-navbar xmlns="urn:iweb:">D5D0A695-4517-4372-9FEC-DF7F939176A8</in-navbar>
+  <link rel="alternate" href="paintings_%26_drawings/paintings_%26_drawings.html"/>
+  <updated>2015-01-04T21:26:02.002-06:00</updated>
+  <content>paintings &amp; drawings</content>
+ </entry>
+</feed>
